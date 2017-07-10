@@ -1,0 +1,17 @@
+li {
+  color: orange;
+  font-size: 2em;
+}
+p {
+  margin: 100px;
+  font-size: 20px;
+}
+.fa {
+  color: red;
+}
+.fa-plane {
+  color: blue;
+}
+.fa-train {
+  color:yellow;
+}

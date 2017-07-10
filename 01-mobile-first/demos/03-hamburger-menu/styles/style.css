@@ -1,0 +1,71 @@
+html, body {
+  width: 100%;
+  font-family: helvetica;
+}
+
+header {
+  background: #aaa;
+  padding: 1.5%;
+}
+
+ul {
+  /* this is a hack for collapsing space between inline block elements */
+  font-size: 0;
+}
+
+a {
+  text-decoration: none;
+  color: #71f;
+}
+
+
+nav li {
+  font-size: 1.5rem;
+  letter-spacing: normal;
+  list-style: none;
+  display: inline-block;
+  padding: 1%;
+}
+
+.nav-list {
+  display: none;
+}
+
+.nav-list.is-active {
+  background-color: yellow;
+}
+
+.hamburger {
+  display: block;
+}
+
+.nav-ul:hover li {
+  display: block;
+  border-bottom: solid 2px black;
+}
+
+button {
+  background: green;
+}
+
+button.is-active {
+  background: magenta;
+}
+
+
+
+@media only screen and (min-width: 640px) {
+  .nav-list,
+  .nav-ul:hover li {
+    display: inline-block;
+    border: 2px solid black;
+    border-top-right-radius: 20%;
+    border-top-left-radius: 20%;
+  }
+  .hamburger {
+    display: none;
+  }
+  .nav-ul:hover .hamburger {
+    display: none;
+  }
+}
