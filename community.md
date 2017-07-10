@@ -56,9 +56,12 @@ Here are a few:
 
 ## Submitting Your Assignment
 
-Before the end of the course, you are to attend one meetup event at one of the above (or other related) meetup groups.
-Take a screenshot of **your** RSVP to the event.
-You are to include this screenshot as a file upload along with your report of the event, outlined below.
+Before the end of the course, you are to:
+
+1. Join a technical Slack community and introduce yourself.
+2. Attend one meetup event at one of the local meetup groups. For more details about these, check the "community.md" document in the class repository.
+
+Take a screenshot of **your** Slack introduction and **your** RSVP to the meetup group event. You are to include these screenshots as file uploads along with your report of the event, outlined below.
 
 **If you went to a larger monthy meetup:** Submit in text the titles of the talks you heard and (at least) two people you met, where (if) they work, and what they do there. Write about what you found interesting (or uninteresting) about the subject matter of the talks, as well as anything else notable about the meetup.
 
