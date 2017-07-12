@@ -45,5 +45,10 @@ $('button').remove()
 
 //run a command as soon as the DOM loads
 $(document).ready(function() {
-  alert('the DOM is ready now!');
+  //alert('the DOM is ready now!');
+})
+
+$(function() {
+  // This will run on ready
+  console.log('The document is ready!');
 })
