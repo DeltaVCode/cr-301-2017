@@ -29,7 +29,7 @@ Start working on the form building workshop, go until 11:30 or 11:45 or so, when
 
 ---
 
-12:15-1:00p: [Partner Power Hour](https://www.eventbrite.com/e/partner-power-hour-tips-for-scoring-your-first-role-as-a-software-developer-tickets-34526163685) with my friend Jason Greer from GeneralUI.
+12:15-1:00p: Lunch
 
 ---
 
