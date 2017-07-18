@@ -42,7 +42,7 @@ Things are starting to change in a big way as we start looking at how server-sid
 `10 minute break`
 
 - Code demo: Let's make a Node-powered server!
-	- Clone the [301 Express demo](https://github.com/codefellows/301-7-express-demo) repo into your main 301 directory. It has no Node action... yet.
+	- Clone the [301 Express demo](https://github.com/DeltaVCode/301-7-express-demo) repo into your main 301 directory. It has no Node action... yet.
 	- `npm init` to initialize it as a Node project
 	- Install: ExpressJS
 	- Write server.js, some helpful docs:
