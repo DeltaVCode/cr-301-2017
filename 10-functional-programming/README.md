@@ -7,14 +7,6 @@ The focus of this class is on basic functional programming concepts, through the
 
 ## Daily Plan
 
-- **9:00-10:15ish:** Part 1 of lecture
-- **10:30ish-11:45:** Part 2 of lecture after a 15-minute break
-- **11:45-12:15:** break
-- **12:15-1:00:** Partner Power Hour: Deconstructing Behavioral Questions & Business Fundamentals with DV grad Hugo Guerra
-- **1:00:** lab starts
-
-- **Week In Review, and What Lies Ahead**
-
 - **Code Review**
 
 - **Scope and related topics**
@@ -43,7 +35,7 @@ The focus of this class is on basic functional programming concepts, through the
 
 - First-class functions
 
-**Demo with Dr. Who**
+**Demo**
 
 - forEach
 
