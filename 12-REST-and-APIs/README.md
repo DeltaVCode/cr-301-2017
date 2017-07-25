@@ -24,8 +24,6 @@
 
 - There is also Quiz 3 to complete over the weekend, PLUS a bonus ***ungraded*** quiz 3.14 to help you prep for the 401 exam.
 
-- 	If you'd like to schedule a one-on-one meeting with Sam over the next week, please select one of the slots available at [this link](https://sam-301d20.youcanbook.me/).
-
 - Depending on time, we'll try to do some code review before a break
 
 `BREAK (10 minutes)`
@@ -47,7 +45,7 @@
 
 **Demo with the GitHub API**
 
-- Clone [this repo](https://github.com/codefellows/code-301-github-api) that we'll use for building out an example
+- Clone [this repo](https://github.com/DeltaVCode/code-301-github-api) that we'll use for building out an example
 
 `BREAK (10 minutes)`
 
