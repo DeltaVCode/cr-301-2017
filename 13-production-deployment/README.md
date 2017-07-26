@@ -4,18 +4,6 @@
 <!-- Provide a general overview of the daily concepts and processes that will be covered in lectures and labs -->
 *The focus of this class is on the concept of production deployments in conjunction with development and production environments. We'll look at Heroku, the deployment process, configuration of environment variables, and general issues that can arise during the deployment phase of a project. We'll also discuss development, production, and feature branches and how they are used in collaborative development.*
 
-Today's schedule on one-on-one meetings, that I'll do in one of the little meeting rooms in the catacombs. Just head over when it is your time:
-
-- 1:45 Rylee
-- 2:00 Joshua
-- 2:15 Derek
-- 2:30 Said
-- 2:45 Fortunado
-- 3:00 Scott
-- 3:15 Michael Porter
-- 3:30 Mathew
-- 3:45 Izzy
-
 ## Daily Plan
 
 **Discussion on project ideas**
